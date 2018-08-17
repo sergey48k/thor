@@ -40,6 +40,16 @@ Please see the [wiki][] for basic usage and other documentation on using Thor. Y
 
 Contributing
 ------------
+
+[![0](https://sourcerer.io/fame/sergey48k/erikhuda/thor/images/0)](https://sourcerer.io/fame/sergey48k/erikhuda/thor/links/0)
+[![1](https://sourcerer.io/fame/sergey48k/erikhuda/thor/images/1)](https://sourcerer.io/fame/sergey48k/erikhuda/thor/links/1)
+[![2](https://sourcerer.io/fame/sergey48k/erikhuda/thor/images/2)](https://sourcerer.io/fame/sergey48k/erikhuda/thor/links/2)
+[![3](https://sourcerer.io/fame/sergey48k/erikhuda/thor/images/3)](https://sourcerer.io/fame/sergey48k/erikhuda/thor/links/3)
+[![4](https://sourcerer.io/fame/sergey48k/erikhuda/thor/images/4)](https://sourcerer.io/fame/sergey48k/erikhuda/thor/links/4)
+[![5](https://sourcerer.io/fame/sergey48k/erikhuda/thor/images/5)](https://sourcerer.io/fame/sergey48k/erikhuda/thor/links/5)
+[![6](https://sourcerer.io/fame/sergey48k/erikhuda/thor/images/6)](https://sourcerer.io/fame/sergey48k/erikhuda/thor/links/6)
+[![7](https://sourcerer.io/fame/sergey48k/erikhuda/thor/images/7)](https://sourcerer.io/fame/sergey48k/erikhuda/thor/links/7)
+
 If you would like to help, please read the [CONTRIBUTING][] file for suggestions.
 
 [contributing]: CONTRIBUTING.md
